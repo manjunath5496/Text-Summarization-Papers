@@ -92,86 +92,91 @@ Topic Models</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(49).pdf" style="text-decoration:none;">Overcoming the Lack of Parallel Data in Sentence Compression</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(50).pdf" style="text-decoration:none;">Phrase-based Compressive Cross-Language Summarization</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(51).pdf" style="text-decoration:none;">Neural Headline Generation on Abstract Meaning Representation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(52).pdf" style="text-decoration:none;">A Simple Regularization-based
+Algorithm for Learning Cross-DomainWord Embeddings</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(53).pdf" style="text-decoration:none;">New Methods in Automatic Extracting</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(54).pdf" style="text-decoration:none;">Opinion Mining with
+Deep Recurrent Neural Networks </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(55).pdf" style="text-decoration:none;">Fear the REAPER: A System for Automatic Multi-Document Summarization with Reinforcement Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(56).pdf" style="text-decoration:none;">Exploring Speaker Characteristics for Meeting Summarization </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(57).pdf" style="text-decoration:none;">Joint Learning of Character andWord Embeddings</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(58).pdf" style="text-decoration:none;">Identifying Event Descriptions using Co-training with Online News Summaries</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(59).pdf" style="text-decoration:none;">Two uses of anaphora resolution in summarization</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(60).pdf" style="text-decoration:none;">Using Latent Semantic Analysis in Text Summarization and Summary Evaluation </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(61).pdf" style="text-decoration:none;"> Latent Dirichlet Allocation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(62).pdf" style="text-decoration:none;">LexRank: Graph-based Lexical Centrality as Salience in Text Summarization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(63).pdf" style="text-decoration:none;">Summarizing Software Artifacts: A Literature Review</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(64).pdf" style="text-decoration:none;">Improving Language Understanding
+by Generative Pre-Training</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(65).pdf" style="text-decoration:none;">Lecture 5: Distributed Representations</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(66).pdf" style="text-decoration:none;">Toward Abstractive Summarization Using Semantic Representations</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(67).pdf" style="text-decoration:none;">The Automatic Creation of Literature Abstracts</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(68).pdf" style="text-decoration:none;">TextRank: Bringing Order into Texts</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(69).pdf" style="text-decoration:none;">Neural network based language models for highly inflective languages</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(70).pdf" style="text-decoration:none;">Multimodal Summarization of Complex Sentences</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(71).pdf" style="text-decoration:none;">Using Summarization
+to Discover Argument Facets in Online Idealogical Dialog</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(72).pdf" style="text-decoration:none;">Abstractive Sentence Summarization
+with Attentive Recurrent Neural Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(73).pdf" style="text-decoration:none;">Abstractive Sentence Summarization
+with Attentive Recurrent Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(74).pdf" style="text-decoration:none;">Automatic Evaluation of Summaries Using N-gram Co-Occurrence Statistics </a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(75).pdf" style="text-decoration:none;">NeuralWord Embedding
+as Implicit Matrix Factorization</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(76).pdf" style="text-decoration:none;">Cross-Language Text Summarization using Sentence and Multi-Sentence Compression</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(77).pdf" style="text-decoration:none;">BLEU: a Method for Automatic Evaluation of Machine Translation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(78).pdf" style="text-decoration:none;">Using Bilingual Information for Cross-Language Document Summarization</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(79).pdf" style="text-decoration:none;">Domain-Independent Abstract Generation for Focused Meeting Summarization</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(80).pdf" style="text-decoration:none;">On Using Very Large Target Vocabulary for Neural Machine Translation</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(81).pdf" style="text-decoration:none;">Conversation summarization using machine learning and scoring method</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(82).pdf" style="text-decoration:none;">Evaluation methods for unsupervised word embeddings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(83).pdf" style="text-decoration:none;">Evaluation methods for unsupervised word embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(84).pdf" style="text-decoration:none;">Continuous space language models</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(85).pdf" style="text-decoration:none;">Automatic summarising: factors and
+directions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(86).pdf" style="text-decoration:none;">Text Summarization and Singular Value Decomposition</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(87).pdf" style="text-decoration:none;">Automated text summarization and the SUMMARIST system</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(88).pdf" style="text-decoration:none;">Task-focused Summarization of Email</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(89).pdf" style="text-decoration:none;">Focused Meeting Summarization via Unsupervised Relation Extraction</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(90).pdf" style="text-decoration:none;"> Intrinsic Evaluation of Word Vectors Fails to Predict Extrinsic Performance</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(91).pdf" style="text-decoration:none;">OpenNMT: Neural Machine Translation Toolkit</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(92).pdf" style="text-decoration:none;">ROUGE: A Package for Automatic Evaluation of Summaries</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(93).pdf" style="text-decoration:none;">Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing</a></li>
   </ul>
