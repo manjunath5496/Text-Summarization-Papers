@@ -52,14 +52,14 @@ Reinforce-Selected Sentence Rewriting</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(25).pdf" style="text-decoration:none;">TLDR: Extreme Summarization of Scientific Documents</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(26).pdf" style="text-decoration:none;">Liputan6: A Large-scale Indonesian Dataset for Text Summarization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(27).pdf" style="text-decoration:none;">A Summarization System for Scientific Documents</a></li>
    
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(28).pdf" style="text-decoration:none;">Summarizing Online Conversations: A Machine Learning Approach</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(29).pdf" style="text-decoration:none;">Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(30).pdf" style="text-decoration:none;">Automatic Summarization</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(30).pdf" style="text-decoration:none;">Review Paper on Extractive Text Summarization</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(31).pdf" style="text-decoration:none;">Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(32).pdf" style="text-decoration:none;">Multimodal Summarization with Guidance of Multimodal Reference</a></li> 
