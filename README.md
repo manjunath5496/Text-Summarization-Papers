@@ -51,46 +51,47 @@ Reinforce-Selected Sentence Rewriting</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(24).pdf" style="text-decoration:none;">Fine-tune BERT for Extractive Summarization</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(25).pdf" style="text-decoration:none;">TLDR: Extreme Summarization of Scientific Documents</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(26).pdf" style="text-decoration:none;">Liputan6: A Large-scale Indonesian Dataset for Text Summarization</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(28).pdf" style="text-decoration:none;">Summarizing Online Conversations: A Machine Learning Approach</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(29).pdf" style="text-decoration:none;">Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(30).pdf" style="text-decoration:none;">Automatic Summarization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(31).pdf" style="text-decoration:none;">Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(32).pdf" style="text-decoration:none;">Multimodal Summarization with Guidance of Multimodal Reference</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(33).pdf" style="text-decoration:none;">Sentence Compression by Deletion with LSTMs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(34).pdf" style="text-decoration:none;">Automatic Summarization</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(35).pdf" style="text-decoration:none;">A Simple but Tough-to-Beat Baseline for Sentence Embeddings</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(36).pdf" style="text-decoration:none;">Automatic Summarization of Conversational Multi-Party Speech</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(37).pdf" style="text-decoration:none;">A Publicly Available Annotated Corpus for Supervised Email Summarization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(38).pdf" style="text-decoration:none;">Document Summarization Based on Data Reconstruction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(39).pdf" style="text-decoration:none;">Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(40).pdf" style="text-decoration:none;">Abstract Text Summarization with a Convolutional Seq2seq Model</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(41).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(42).pdf" style="text-decoration:none;">Probabilistic
+Topic Models</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(43).pdf" style="text-decoration:none;">Revisiting Correlations between Intrinsic and Extrinsic Evaluations of Word Embeddings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(44).pdf" style="text-decoration:none;">Distributed Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(45).pdf" style="text-decoration:none;">Modelling Compression with Discourse Constraints</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(46).pdf" style="text-decoration:none;">Lecture on Distributed Representations and Coarse Coding</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(47).pdf" style="text-decoration:none;">Making Sense of Group Chat through Collaborative Tagging and Summarization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(48).pdf" style="text-decoration:none;">Title Generation with Quasi-Synchronous Grammar</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(49).pdf" style="text-decoration:none;">Overcoming the Lack of Parallel Data in Sentence Compression</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(50).pdf" style="text-decoration:none;">Phrase-based Compressive Cross-Language Summarization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Text-Summarization-Papers/blob/master/kl(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
